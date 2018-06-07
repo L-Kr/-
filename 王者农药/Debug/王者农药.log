@@ -1,0 +1,7 @@
+﻿  源.cpp
+f:\学霸\c++\王者农药\王者农药\源.cpp(219): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\time.h(505): note: 参见“localtime”的声明
+f:\学霸\c++\王者农药\王者农药\源.cpp(221): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note: 参见“strcat”的声明
+  王者农药.vcxproj -> F:\学霸\C++\王者农药\Debug\王者农药.exe
+  王者农药.vcxproj -> F:\学霸\C++\王者农药\Debug\王者农药.pdb (Partial PDB)
